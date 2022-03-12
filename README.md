@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 <h3 align="center">3rd Year Computer Engineering Student at Cairo University</h3>
 
 - 🌱 I’m currently learning **node.js and vue**
-
 - 💬 Ask me about **Laravel and problem solving**
 
 <div align="left">
@@ -36,9 +35,9 @@ Here are some ideas to get you started:
   <img  alt="Facebook" width="50px" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" draggable="false" />
 </a>
   
-  <a href="https://github.com/Ahmed-Mohamed7">
+<!--   <a href="https://github.com/Ahmed-Mohamed7">
   <img  alt="github" width="50px" src="https://cdn-icons.flaticon.com/png/512/2175/premium/2175377.png?token=exp=1636316220~hmac=02dbff62487e6f0d8879215b16b11076" />
-</a>
+</a> -->
   
 <!-- <a href="https://www.hackerrank.com/Hemdan?hr_r=1">
   <img  alt="" width="30px" src="https://assets.brandfolder.com/y9ol94wb/v/331198/view@2x.png?v=1591971279" draggable="false" />
