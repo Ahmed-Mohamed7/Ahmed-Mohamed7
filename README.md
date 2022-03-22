@@ -76,12 +76,12 @@ Here are some ideas to get you started:
 
 </div>
 
-<h1 align="center"> Vistors </h1>
+<!-- <h1 align="center"> Vistors </h1>
 
 <h1 align="center">
 
  ![visitors](https://profile-counter.glitch.me/Ahmed-Mohamed7/count.svg)
  
  </h1>
-
+ -->
 
