@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <h3 align="center">3rd Year Computer Engineering Student at Cairo University</h3>
 
 - 🌱 I’m currently learning **node.js and vue**
+- 💬 I'm currently reading head first design pattern book
 - 💬 Ask me about **Laravel and problem solving**
 
 <div align="left">
@@ -77,9 +78,5 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Vistors </h1>
 
-<h1 align="center">
 
- ![visitors](https://profile-counter.glitch.me/Ahmed-Mohamed7/count.svg)
- 
- </h1>
 
