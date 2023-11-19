@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   </div>
 
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed AbdelHamed</h1>
-<h3 align="center">3rd Year Computer Engineering Student at Cairo University</h3>
+<h3 align="center">Software engineer at siemens</h3>
 
 - 🌱 I’m currently learning **node.js and vue**
 - 💬 I'm currently reading head first design pattern book
